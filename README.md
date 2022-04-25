@@ -24,6 +24,7 @@ Nearly all work is in private repos, so not much to see here unfortunately.
 ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-
+<!--
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=teledemic&show_icons=true&count_private=true&theme=vue&hide_border=true" alt="Teledemic's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teledemic&layout=compact&theme=vue&hide_border=true" /> |
 | ------------- | ------------- |
+-->
